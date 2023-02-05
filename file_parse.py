@@ -26,7 +26,7 @@ Zp_BP, sigma_ZBP_2 = 25.3385422158, 0.000007785
 Zp_RP, sigma_ZRP_2 = 24.7478955012, 0.00001428
 
 # Path to the database
-db_path = '/media/gabriel/backup/gabriel/GaiaEDR3/datafiles/'
+db_path = '/media/gabriel/backup/gabriel/GaiaDR3/datafiles/'
 
 # Input file
 input_f = "clusters.ini"
